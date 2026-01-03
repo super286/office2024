@@ -1,0 +1,1 @@
+%~dp0Activate.cmd /o
